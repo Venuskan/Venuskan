@@ -15,7 +15,7 @@
 - 🌱 I’m currently learning ...
 -// C++
 -// Java
--// Technical Support Fundamentals
+-// Python 3
 
 - 📫 Where to reach me:
 -//XboxLive: SargeantDooM
