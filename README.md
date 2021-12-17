@@ -17,7 +17,7 @@
 -// Java
 -// Technical Support Fundamentals
 
-- 📫 How to reach me:
+- 📫 Where to reach me:
 -//XboxLive: SargeantDooM
 -//Discord: ETIC, B299, 92655 Grafenwöhr#4968
 -//Number: +49 (0)176 7646 1902
