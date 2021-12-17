@@ -2,7 +2,7 @@
 
 - 👦 About me:
 -// I was born in Nuremberg, Germany
--// I can speak English (fluent), German (advanced), Turkish (basic) and French (basic)
+-// I can speak English (fluent), German (advanced) and Turkish (basic) 
 -// My favourite food is Schnitzel
 -// I like to go hiking
 
