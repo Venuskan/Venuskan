@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Okan Yilmaz, aka @Venuskan on GitHub!
+- 👋 Hi, i'm @Venuskan on GitHub!
 
 - 👦 About me:
 -// I was born in Nuremberg, Germany
