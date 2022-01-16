@@ -18,7 +18,7 @@
 -// Python 3
 
 - 📫 Where to reach me:
--//XboxLive: SargeantDooM
+-//XboxLive: SergeantDooM
 -//Discord: ETIC, B299, 92655 Grafenwöhr#4968
 -//Number: +49 (0)176 7646 1902
 -//Email: yilmaz23.okan@gmail.com
